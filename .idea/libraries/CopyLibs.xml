@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CopyLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/jaco-mp3-player-0.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
